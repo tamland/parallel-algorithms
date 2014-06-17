@@ -1,0 +1,5 @@
+standard.c: Standard matrix multiplication.
+strassen.c: Strassen's algorithm.
+standard-blocked.c: Same as strassen.c but with 8 multiplications.
+cannon.c: Cannon's algorithm using MPI.
+p4.c: Combination of Strassen's and Cannon's.
